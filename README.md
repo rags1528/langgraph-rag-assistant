@@ -393,7 +393,15 @@ What are conditional edges in LangGraph?
 ```
 
 ---
+# Example Response
 
+Example API response from `/query`:
+
+```json
+{
+  "answer": "LangGraph is a framework used to build graph-based AI workflows with support for state management and conditional routing.\n\nSources:\nlanggraph_docs.md"
+}
+```
 # Challenges Faced
 
 Some challenges faced during development:
